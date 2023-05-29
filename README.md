@@ -25,6 +25,5 @@
 <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=free-aaron-li" /> </a>
 </div>
  
-<a href="(https://github.com/ashutosh00710/github-readme-activity-graph" ><img src="https://github-readme-activity-graph.cyclic.app/graph?username=free-aaron-li&theme=github-compact" alt="github activity graph" /></a> 
 
 
