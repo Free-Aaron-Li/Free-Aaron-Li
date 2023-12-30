@@ -15,6 +15,15 @@
 </div>
  
 <!--START_SECTION:waka-->
+
+```txt
+Markdown               9 hrs 38 mins   █████████████████████▓░░░   86.40 %
+C++                    58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+ObjectiveC             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Python                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+BashPro Shell Script   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+```
+
 <!--END_SECTION:waka-->
 
 
