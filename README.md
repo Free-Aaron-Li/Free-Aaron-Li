@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown               13 hrs 24 mins  ████████████░░░░░░░░░░░░░   48.52 %
-C++                    7 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
-ObjectiveC             3 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Vim Script             1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-GitIgnore file         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Markdown               11 hrs 46 mins  ██████████████▒░░░░░░░░░░   57.04 %
+C++                    3 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+ObjectiveC             2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Vim Script             1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+GitIgnore file         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
