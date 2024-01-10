@@ -15,10 +15,6 @@
 </p>
 
 
-<div align='center'>
-  <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=free-aaron-li" /> </a>
-</div>
-
 <div align='right'>
   <h3>Coding</h3>
 </div>
