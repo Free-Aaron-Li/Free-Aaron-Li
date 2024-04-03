@@ -7,7 +7,7 @@
 <div align='center'>
   <a><img src="https://img.shields.io/badge/C%2FC%2B%2B%20-%20%2375664D"></a> 
   <a><img src="https://img.shields.io/badge/Kotlin%20-%20%2375664D"></a> 
-  <a><img src="https://img.shields.io/badge/shell-75664D"></a> 
+  <a><img src="https://img.shields.io/badge/Shell-75664D"></a> 
 </div>
 
 <p align="center">
