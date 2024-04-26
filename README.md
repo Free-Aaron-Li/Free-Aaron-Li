@@ -5,7 +5,7 @@
   <a href="https://wakatime.com/@fe40087f-8eae-48dc-9950-ad0633db1591"><img src="https://wakatime.com/badge/user/fe40087f-8eae-48dc-9950-ad0633db1591.svg" alt="Total time coded since Mar 9 2022" /></a>
 </div>
 <div align='center'>
-  <a><img src="https://img.shields.io/badge/C%2FC%2B%2B%20-%20%2375664D"></a> 
+  <a><img src="https://img.shields.io/badge/c%2Fc%2B%2B%2Fc%23-%2375664d"></a> 
   <a><img src="https://img.shields.io/badge/Kotlin%20-%20%2375664D"></a> 
   <a><img src="https://img.shields.io/badge/Shell-75664D"></a> 
 </div>
