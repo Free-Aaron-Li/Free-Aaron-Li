@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++              6 hrs 10 mins   █████████████████▓░░░░░░░   70.25 %
-textmate         1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-ObjectiveC       1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Objective-C      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+C++              6 hrs 8 mins    █████████████████▓░░░░░░░   70.13 %
+textmate         1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+ObjectiveC       1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Objective-C      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
