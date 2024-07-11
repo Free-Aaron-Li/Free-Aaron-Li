@@ -22,11 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other            5 mins          ████████████░░░░░░░░░░░░░   47.36 %
-CMake            3 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-GitIgnore file   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-C++              0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
