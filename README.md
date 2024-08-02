@@ -22,9 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ObjectiveC   14 mins         ██████████████░░░░░░░░░░░   55.36 %
-C++          11 mins         ██████████▓░░░░░░░░░░░░░░   42.81 %
-CMake        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
