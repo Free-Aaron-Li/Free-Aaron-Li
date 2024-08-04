@@ -22,7 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   12 mins         █████████████████████████   100.00 %
+Markdown         12 mins         ██████████████████▒░░░░░░   73.32 %
+Python           4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
