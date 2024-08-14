@@ -22,7 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+ObjectiveC       11 mins         █████████████████████░░░░   84.20 %
+C++              1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
