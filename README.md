@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          22 mins         ███████████████████████░░   91.80 %
-C            1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-textmate     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Qt UI file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-qrc          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
