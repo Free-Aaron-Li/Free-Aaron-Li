@@ -21,7 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        2 hrs 42 mins   ██████████████████████▒░░   88.75 %
+C          20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
