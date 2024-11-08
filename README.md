@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C          1 hr 26 mins    ████████████████▓░░░░░░░░   67.01 %
-C++        27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-Markdown   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Text       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
