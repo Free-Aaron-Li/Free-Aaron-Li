@@ -21,7 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake            24 mins         █████████████████▒░░░░░░░   69.58 %
+C++              10 mins         ███████░░░░░░░░░░░░░░░░░░   28.16 %
+textmate         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
