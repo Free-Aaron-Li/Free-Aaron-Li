@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++              20 mins         █████████████████░░░░░░░░   67.97 %
-Markdown         8 mins          ███████░░░░░░░░░░░░░░░░░░   27.55 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-textmate         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
