@@ -21,7 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         48 mins         ██████████▓░░░░░░░░░░░░░░   42.30 %
+C++              35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+Other            12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+Python           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+textmate         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
