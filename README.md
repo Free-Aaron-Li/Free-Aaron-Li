@@ -7,6 +7,7 @@
 <div align='center'>
   <a><img src="https://img.shields.io/badge/Rookie-blue?style=plastic&logo=c&logoColor=blue&labelColor=F5B7DB"></a>
   <a><img src="https://img.shields.io/badge/Rookie-blue?style=plastic&logo=c%2B%2B&logoColor=blue&labelColor=F5B7DB"></a> 
+  <a><img src="https://img.shields.io/badge/Rookie-blue?style=plastic&logo=python&logoColor=blue&labelColor=F5B7DB"></a> 
 </div>
 
 <p align="center">
