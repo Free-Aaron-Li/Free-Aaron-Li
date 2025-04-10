@@ -10,11 +10,6 @@
   <a><img src="https://img.shields.io/badge/Rookie-blue?style=plastic&logo=python&logoColor=blue&labelColor=F5B7DB"></a> 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=你好!+开发者;Hello!+ developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
-
 <div align='right'>
   <h3>Coding</h3>
 </div>
