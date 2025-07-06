@@ -17,10 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              11 hrs 25 mins  ███████████████████████░░   91.58 %
-Markdown           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-reStructuredText   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-JSON               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Other      7 hrs 42 mins   ███████████████████████▓░   94.67 %
+Markdown   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
