@@ -17,8 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   9 hrs 7 mins    █████████████████████████   99.97 %
-Typst   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other   13 hrs 3 mins   █████████████████████████   99.98 %
+Typst   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
