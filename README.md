@@ -17,8 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      12 hrs 13 mins  █████████████████████░░░░   83.41 %
-Markdown   2 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Other      17 hrs 34 mins  ████████████████████▒░░░░   81.71 %
+Markdown   2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Jupyter    1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+textmate   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
